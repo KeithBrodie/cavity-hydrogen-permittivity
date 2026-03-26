@@ -62,7 +62,7 @@ where z_n are determined by the electromagnetic boundary conditions. At the cent
 \sin(z)\!\left(1 - \frac{1}{z^2}\right) + \frac{\cos(z)}{z} = 0
 ```
 
-The first zero is z₁ ≈ 2.744, giving a fundamental cavity frequency ω₁ = 2.744 c/R. For R = 5 nm (a 10 nm diameter cavity), ω₁ ≈ 1.6 × 10¹⁷ rad/s, corresponding to a wavelength of ~11 nm — well within the range that affects the hydrogen ground state (ground state frequency ~6.6 × 10¹⁵ Hz, λ ~ 46 nm).
+The first zero is z₁ ≈ 2.744, giving a fundamental cavity frequency ω₁ = 2.744 c/R. All modes below ω₁ are excluded. For R = 5 nm (a 10 nm diameter cavity), ω₁ ≈ 1.6 × 10¹⁷ rad/s — well above the hydrogen ground state frequency (~4.1 × 10¹⁶ rad/s, λ ~ 46 nm). The excluded band therefore encompasses the modes most relevant to the ground state.
 
 ### 3.2 The Screening Function
 

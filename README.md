@@ -49,14 +49,6 @@ python figure_cavity_size.py
 
 Requires `numpy`, `scipy`, and `matplotlib`.
 
-## Related Papers
-
-1. **Paper 1:** K. Brodie, "Quantized Inertia as a Boundary Correction to Jacobson's Thermodynamic Spacetime" (2026). [DOI: 10.5281/zenodo.18664801](https://doi.org/10.5281/zenodo.18664801)
-
-2. **Paper 4:** K. Brodie, "MOND from Horizon Thermodynamics: Deriving the Radial Acceleration Relation with Zero Free Parameters" (2026). [DOI: 10.5281/zenodo.18677307](https://doi.org/10.5281/zenodo.18677307)
-
-3. **Paper 5:** K. Brodie, "Tensor Inertia from Two Horizons: Jacobson's Thermodynamic Spacetime in a Finite Universe" (2026). [DOI: 10.5281/zenodo.18677307](https://doi.org/10.5281/zenodo.18677307)
-
 ## License
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

@@ -116,7 +116,7 @@ The vacuum permittivity is a polarization along a single direction — a 1D quan
 \varepsilon_{0,\text{eff}} = f_{\text{dir}} \times \varepsilon_0 = f \times \varepsilon_0
 ```
 
-where f = √f². The mode sum computes f² (two directions); the permittivity uses f (one direction). The squaring is geometry, not an assumption.
+where f = √f². The mode sum computes f² (two directions); the permittivity uses f (one direction). The squaring is geometry, not an assumption. For non-spherical cavities, the TM and TE projections would give different values, producing an anisotropic vacuum modification; this case is not treated here.
 
 ### 4.3 Energy Shift
 
@@ -152,12 +152,6 @@ The process is conservative: entry into the cavity releases ΔE; exit restores t
 | 8 | Force balance: E = −13.6/f² → ΔE = 13.6(1/f² − 1) | Mills (2018) |
 
 Step 2 is the single postulate. Step 8 uses Mills' orbitsphere, which reproduces the hydrogen ionization energy, atomic radii, and bond energies across the periodic table (Mills, 2018).
-
-### 4.5 EM Modes Only
-
-The mode sum counts electromagnetic modes only. This follows from the mechanism: ε₀ is an electromagnetic property of the vacuum, and the atom couples through the Coulomb force. Non-electromagnetic vacuum degrees of freedom (gravitational, scalar) do not determine ε₀ and do not enter.
-
-For non-spherical cavities (parallel plates, cylinders), the TM and TE projections would in general give different values, and the vacuum modification would be anisotropic. This case is not treated here.
 
 ---
 

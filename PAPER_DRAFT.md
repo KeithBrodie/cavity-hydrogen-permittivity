@@ -48,9 +48,11 @@ This is a classical calculation and it reproduces the hydrogen spectrum, ionizat
 
 ## 3. Modes
 
+We model each metallic nanoparticle grain as a perfectly conducting (PEC) spherical cavity of diameter d, with a hydrogen atom at its center. The PEC approximation holds when the metal's plasma frequency exceeds the relevant vacuum mode frequencies; for palladium (ωp ≈ 1.3 × 10¹⁶ rad/s), this is satisfied across the entire coupled spectrum.
+
 ### 3.1 Cavity Modes
 
-A perfectly conducting (PEC) sphere of radius R supports discrete vacuum modes at frequencies:
+A PEC sphere of radius R = d/2 supports discrete vacuum modes at frequencies:
 
 ```math
 \omega_n = \frac{z_n\, c}{R}

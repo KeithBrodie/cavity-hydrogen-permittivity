@@ -187,7 +187,7 @@ ax.text(d_boundary * 0.82, 2.8, f'25% encroachment\nd = {d_boundary:.0f} nm',
 
 # Formatting
 ax.set_xscale('log')
-ax.set_xlabel('Cavity diameter (nm)', fontsize=14)
+ax.set_xlabel('Nanoparticle cavity diameter (nm)', fontsize=14)
 ax.set_ylabel('Energy per hydrogen atom (eV)', fontsize=14)
 ax.set_xlim(d_boundary * 0.92, 3000)
 ax.set_ylim(-0.2, 3.5)

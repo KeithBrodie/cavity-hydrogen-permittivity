@@ -181,13 +181,13 @@ The model's domain of validity is determined by the same screening function. The
 
 Kitamura et al. (2009) tested three palladium materials under identical conditions in twin calorimetric chambers. Static gas loading at 1 MPa, room temperature, flow calorimetry. No neutrons, no gamma rays.
 
-| Material | d (nm) | d uncert. | ΔE_H meas (eV) | ΔE_D meas (eV) | ΔE predicted (eV) | Encroach. |
-|---|---|---|---|---|---|---|
-| PP (Pd powder) | 100 | ±30% | 0.20 ± 0.07 | 0.25 ± 0.09 | 0.198 | 3% |
-| PB (Pd-black) | ~30 | ±30% | 0.62 ± 0.11 | 0.67 ± 0.12 | 0.653 | 8% |
-| PZ (Pd·ZrO₂) | 10.7 | ±15% | 1.80 ± 0.40 | 2.40 ± 0.20 | 1.836 | 21% |
+| Material | d (nm) | d uncert. | ΔE_H meas (eV) | ΔE_D meas (eV) | ΔE predicted (eV) |
+|---|---|---|---|---|---|
+| PP (Pd powder) | 100 | ±30% | 0.20 ± 0.07 | 0.25 ± 0.09 | 0.198 |
+| PB (Pd-black) | ~30 | ±30% | 0.62 ± 0.11 | 0.67 ± 0.12 | 0.653 |
+| PZ (Pd·ZrO₂) | 10.7 | ±15% | 1.80 ± 0.40 | 2.40 ± 0.20 | 1.836 |
 
-The model predicts the same ΔE for H and D at each cavity size (isotope independence). All six measured energies are within the model curve given the cavity size uncertainties. The D₂ values are systematically higher than H₂ by a factor of 1.08–1.33, consistent with differences in absorption kinetics. All three sizes fall within the 25% encroachment domain boundary.
+The model predicts the same ΔE for H and D at each cavity size (isotope independence). All six measured energies are within the model curve given the cavity size uncertainties. The D₂ values are systematically higher than H₂ by a factor of 1.08–1.33, consistent with differences in absorption kinetics.
 
 **Figure 1** shows the model curve against error boxes incorporating both size and energy uncertainties.
 

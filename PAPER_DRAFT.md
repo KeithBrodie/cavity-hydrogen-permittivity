@@ -193,11 +193,7 @@ The model predicts the same ΔE for H and D at each cavity size (isotope indepen
 
 **Cavity size uncertainties.** Kitamura et al. report no explicit size uncertainties. PP is a commercial supplier specification (no independent measurement, ±30% assigned). PB is estimated from qualitative SEM imaging ("nano-fractal, several tens of nm", ±30% assigned). PZ is a TEM-measured average Pd grain diameter cross-checked against BET surface area (37.1 m²/g, ±15% assigned). The model passes through all six error boxes.
 
-### 5.3 Geometry Selection
-
-Replacing the 2D spherical shell screening (β = 2π√2) with a 1D circular orbit (β = 2π) systematically underpredicts by 25–30% at all three sizes. The data select the 2D shell geometry, consistent with Mills' orbitsphere.
-
-### 5.4 Consistency with Cavity QED
+### 5.3 Consistency with Cavity QED
 
 Four decades of cavity QED experiments (optical and microwave cavities, ~1 μm to centimetres) have never reported ground state energy shifts. This is consistent with the model: cavity QED measures emission **rates** (first-order in LDOS at one frequency), not ground state **energies** (broadband integral over the mode spectrum). The smallest metallic cavity probed is ~1 μm (Jhe et al., 1987), where the model predicts ΔE = 0.015 eV — below the energy resolution of any existing experiment.
 
@@ -205,7 +201,7 @@ Standard QED perturbation theory (Barton, 1987) predicts ground state shifts fro
 
 No experiment has placed a hydrogen atom inside a sub-100 nm metallic cavity and measured its ground state energy. The prediction is falsifiable.
 
-### 5.5 Summary of Constraints
+### 5.4 Summary of Constraints
 
 | Regime | Data | Model | Status |
 |---|---|---|---|
@@ -220,7 +216,7 @@ No experiment has placed a hydrogen atom inside a sub-100 nm metallic cavity and
 
 This is a hypothesis, not a proof. It has two commitments:
 
-- **Mills' orbitsphere** (Section 2). This is unconventional — the mainstream treatment is the Schrodinger wavefunction. We adopt it because it provides the force balance and the 2D shell geometry that determine the screening function. The data discriminate between the 2D shell and a 1D ring (Section 5.3); they do not directly test Mills against standard quantum mechanics.
+- **Mills' orbitsphere** (Section 2). This is unconventional — the mainstream treatment is the Schrodinger wavefunction. We adopt it because it provides the force balance and the 2D shell geometry that determine the screening function.
 
 - **Emergent ε₀** (Section 4.2). The postulate that ε₀ is entirely emergent from vacuum modes is the load-bearing joint. The flat spectral density follows from this postulate and the observed non-dispersion of the vacuum — it is not an independent assumption.
 

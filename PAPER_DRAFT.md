@@ -203,13 +203,6 @@ Standard QED perturbation theory (Barton, 1987) predicts ground state shifts fro
 
 No experiment has placed a hydrogen atom inside a sub-100 nm metallic cavity and measured its ground state energy. The prediction is falsifiable.
 
-### 5.4 Summary of Constraints
-
-| Regime | Data | Model | Status |
-|---|---|---|---|
-| 10–100 nm | Kitamura PP, PB, PZ (H₂ + D₂) | ΔE = 13.6(1/f² − 1) | 6 points, zero parameters |
-| >1 μm | Cavity QED (40 years) | ΔE < 0.02 eV | Below resolution, consistent |
-
 ---
 
 ## 6. Discussion

@@ -2,6 +2,8 @@
 
 **Author:** Keith Brodie (2026)
 
+**Zenodo:** [DOI: 10.5281/zenodo.19230526](https://zenodo.org/records/19230526)
+
 ## Summary
 
 Kitamura et al. (2009) measured excess heat from hydrogen and deuterium absorbed into palladium nanoparticles at three characterized grain sizes (100, 30, and 10.7 nm). Energy per atom increases sharply with decreasing particle size. No nuclear products were detected.
